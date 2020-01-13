@@ -1,11 +1,9 @@
 package com.tfx0one.gameEngine;
 
-import com.tfx0one.bombGame.StoneLayer;
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
 import java.io.IOException;
-import java.net.URL;
 
 /**
  * 描述
